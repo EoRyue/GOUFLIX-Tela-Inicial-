@@ -1,0 +1,94 @@
+header {
+    font-family: "New Amsterdam", sans-serif;
+    color: black;
+    padding-left: 10px;
+    font-size: 35px;
+    background: rgba(255, 174, 62, 0.71);
+    padding: 12px;
+    border-bottom: solid rgba(86, 59, 22, 0.71) 5px;
+}
+body {
+    background: rgb(86, 59, 22);
+    margin: 0px;
+}
+#oqueassistir {
+    font-family: "Bebas Neue", sans-serif;
+    padding: 10px;
+    color: white;
+    font-size: 60px;
+    background:rgb(44, 30, 11);
+    border-bottom:solid rgba(86, 59, 22, 0.71) 5px;
+}
+.catalogo {
+    margin-bottom: 10px;
+    padding-left: 5px;
+    display: flex;
+    overflow: auto;
+    gap: 5px;
+}
+.catalogo2 {
+    margin-bottom: 10px;
+    padding-left: 20px;
+    overflow: auto;
+}
+.catalogo2 img {
+    opacity: 0.8;
+}
+.catalogo2 img:hover {
+    opacity: 1.0;
+}
+.catalogo2 img {
+    opacity: 0.8;
+    height: 200px;
+    border-radius: 10px;
+}
+.secoes {
+    margin-top: 20px;
+    font-family: "Bebas Neue", sans-serif;
+    color: white;
+    padding: 10px;
+    font-size: 30px;
+}
+.catalogo img {
+    opacity: 0.8;
+    height: 200px;
+    border-radius: 10px;
+}
+.catalogo img:hover {
+    opacity: 1.0;
+}
+#lancouhoje {
+    border-radius: 20px;
+    padding-bottom: 40px;
+    justify-content: center;
+    display: flex;
+    overflow-x: auto;
+
+}
+#destacado {
+    margin-top: 20px;
+    font-family: "Bebas Neue", sans-serif;
+    color: rgb(255, 217, 0);
+    padding: 10px;
+    padding-left: 40px;
+    font-size: 45px;
+}
+#destacado-background {
+    margin-top:20px;
+    background: rgb(44, 30, 11);
+    border-bottom: solid rgba(86, 59, 22, 0.71) 10px;
+    border-top: solid rgba(86, 59, 22, 0.71) 10px; 
+}
+#destacado-titulo {
+    font-family: "Chakra Petch", sans-serif;
+    color: rgb(255, 217, 0);
+    padding-left: 2%;
+    padding-top: 0%;
+    font-size: 40px;
+}
+#destacado-descricao {
+    font-family: "Chakra Petch", sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+
+}
